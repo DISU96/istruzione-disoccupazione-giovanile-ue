@@ -33,7 +33,7 @@ I risultati descrivono associazioni nei dati e **non dimostrano rapporti di caus
 
 ## Come consultare il progetto
 
-Il notebook `analisi_lavoro_giovanile_europa.ipynb` contiene i passaggi di acquisizione, pulizia, analisi e visualizzazione dei dati. Può essere aperto ed eseguito con [Google Colab](https://colab.research.google.com/).
+Il notebook `istruzione_disoccupazione_giovanile_ue_2014_2024.ipynb.` contiene i passaggi di acquisizione, pulizia, analisi e visualizzazione dei dati. Può essere aperto ed eseguito con [Google Colab](https://colab.research.google.com/).
 
 ## Fonti e documentazione
 
